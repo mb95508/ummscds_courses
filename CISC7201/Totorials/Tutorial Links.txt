@@ -1,0 +1,14 @@
+-- Tutorial01 - Install AnacondaURL
+https://www.datacamp.com/community/tutorials/installing-anaconda-windows
+
+-- Tutorial02 - Install Jupyter NotebookURL
+https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/
+
+-- Tutorial03 - GitHub HelloWorld!URL
+https://guides.github.com/activities/hello-world/
+
+-- Tutorial04 - MyBinderURL
+https://github.com/bokeh/bokeh-notebooks
+
+-- Git Hub
+https://github.com/RyanLHU/CISC7201
